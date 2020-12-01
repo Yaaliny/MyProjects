@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">FinalPlanitApp</string>
+
+    <string-array name="transportationModes">
+        <item>Car</item>
+        <item>Public Transit</item>
+        <item>Walk</item>
+        <item>Bicycle</item>
+    </string-array>
+
+    <string-array name="priceLevels">
+        <item>Free</item>
+        <item>Inexpensive</item>
+        <item>Moderate</item>
+        <item>Expensive</item>
+        <item>Very Expensive</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="group1">Kid Fun</string>
+    <string name="group2">Shopping</string>
+    <string name="group3">Food and Drinks</string>
+    <string name="group4">Sports</string>
+    <string name="group5">Art and Culture</string>
+    <string name="group6">Age-restricted</string>
+    <string name="group7">Other</string>
+
+    <string-array name="group1">
+        <item>Amusement Parks</item>
+        <item>Aquarium</item>
+        <item>Park</item>
+        <item>Zoo</item>
+    </string-array>
+
+    <string-array name="group2">
+        <item>Book Store</item>
+        <item>Clothing Store</item>
+        <item>Department Store</item>
+        <item>Electronics Stores</item>
+        <item>Florist</item>
+        <item>Jewelry Store</item>
+        <item>Shoe Store</item>
+        <item>Shopping Mall</item>
+    </string-array>
+
+    <string-array name="group3">
+        <item>Bakery</item>
+        <item>Cafe</item>
+        <item>Chinese Restaurants</item>
+        <item>Japanese Restaurants</item>
+        <item>Korean Restaurants</item>
+        <item>French Restaurants</item>
+    </string-array>
+
+    <string-array name="group4">
+        <item>Bowling Alley</item>
+        <item>Campground</item>
+        <item>Stadium</item>
+    </string-array>
+
+    <string-array name="group5">
+        <item>Art Galleries</item>
+        <item>Library</item>
+        <item>Museum</item>
+        <item>Movie Theater</item>
+    </string-array>
+
+    <string-array name="group6">
+        <item>Bar</item>
+        <item>Casino</item>
+        <item>Liquor Store</item>
+    </string-array>
+
+    <string-array name="group7">
+        <item>Tourist Attraction</item>
+        <item>Hindu Temple</item>
+        <item>Synagogue</item>
+        <item>Mosque</item>
+        <item>Church</item>
+    </string-array>
+
+    <string name="select_all">Select All</string>
+    <string name="next">Next</string>
+    <string name="title_journey_list">Journeys</string>
+    <string name="title_journey_detail">Journey Detail</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_like_activities">LikeActivities</string>
+
+</resources>
